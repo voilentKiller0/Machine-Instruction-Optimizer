@@ -43,10 +43,8 @@ There are two types of Instruction Available in this program
   ![image](https://user-images.githubusercontent.com/55941465/163452067-55f6efab-8b88-4db8-aa15-eaa5f1a57312.png)
   
   
- Created By :
- 
-      Chandreshwar Vishwakarma
-      
-      Bankim Mondal
+ **Made By :
+      1. Chandreshwar Vishwakarma
+      2. Bankim Mondal**
 
 
