@@ -44,7 +44,6 @@ There are two types of Instruction Available in this program
   
   
  **Made By :
-      1. Chandreshwar Vishwakarma
-      2. Bankim Mondal**
+      1. Chandreshwar Vishwakarma**
 
 
