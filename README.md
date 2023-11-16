@@ -39,7 +39,7 @@ The optimized machine-level code is then generated and saved to separate text fi
 Clone the repository to your local machine:
 
 ```
-  git clone https://github.com/your-username/machine-instruction-optimizer.git
+  git clone https://github.com/voilentKiller0/Machine-Instruction-Optimizer.git
 ```
 
 ## Usage <a name="Usage"></a>
