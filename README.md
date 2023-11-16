@@ -114,7 +114,7 @@ There are two types of Instruction Available in this program
 
 ## Optimization Strategies Description <a name="Optimization_Strategies"></a>
 
-Certainly! Below are brief descriptions for each optimization strategy mentioned in your project:
+Certainly! Below are brief descriptions for each optimization strategy mentioned in this project:
 
 ### 1. Unscheduled Strategies <a name="Unscheduled"></a>
 
